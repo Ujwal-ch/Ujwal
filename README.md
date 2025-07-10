@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Tableau, PowerBI, ML techniques, Data Bricks, Snow flake, AWS**
 
 - 👯 I’m looking for full time job opportunities [Data Science/Data Analyst/ ML Engineer](https://colab.research.google.com/drive/1XFv00WdL57LlxllM3rz2pUufLauGwbRb#scrollTo=p378_keGZ2LY)
-
+- My Experience **Results-driven Data Analyst with 3 years of experience in data analysis, machine learning, and building robust data pipelines. Skilled in Python, SQL, PySpark, Tableau, and Power BI.**
 - 📫 How to reach me **ujwalch1606@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
